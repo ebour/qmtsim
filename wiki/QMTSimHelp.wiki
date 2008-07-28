@@ -1,0 +1,18 @@
+#summary This page summarizes about the various functionalities in QMTSim
+
+= QMTSim Help  =
+
+QMTSim is a new advanced multi touch simulator based on Qt 4.4. Its written in C++ so now onwards there will be no JVM :)
+The simulator helps you add new items ( both a tangible and a cursor ) in real time , customize their property and delete them when not required. 
+It also lets you define a path for the item to follow during the animation run.You can define the path by selecting points on the path  which are then joined using bezier curves giving a smooth path.The item with its properties along with its path if specified can be saved in a XML file which can be reloaded in future.All the items that are selected are saved in the same file. Thus selective bunch of items can be saved and uploaded.The path of the item can be changed also.
+QMTSim also has the support for two-finger emulation with right click.
+More features are discussed below in the appropriate section.
+Hope you enjoy using QMTSim. For any more feature request or bug , please mail to mr.ashish.rai@gmail.com
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
