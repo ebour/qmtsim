@@ -40,6 +40,8 @@ The percentage of animation time is shown in the progress bar. You can *forward 
 
 *TUIO Transmission* : The TUIO dats is not started to transmit until this button is pressed. A default TUIO sender is connected to 127.0.0.1 at port number 3333. Extra TUIO senders can be set using *Configure Transmission* by specifying appropriate address and port number. Currently there is support only for UDP packets.
 
+*Opacity Control* :  A slider is provided to change the opacity of the QMTSim main window.This will help to keep the simulator just above the application, make QMTSim transpaernt , do a bit of resizing and then both the application and QMTSim will work in the same frame and give an impression that the application itself is loaded in the simulator. 
+
 Please report any bug or query or feature-request to *mr.ashish.rai@gmail.com*
 
 *HOPE YOU ENJOY USING QMTSim*
