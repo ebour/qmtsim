@@ -36,7 +36,7 @@ The percentage of animation time is shown in the progress bar. You can *forward 
 
 *Save and Upload* : Once an item is created, it can be saved along with its all properties in an XML file and can be uploaded for future use leading to reuse of your hard work building the gesture. Items can be selectively saved by choosing only those items with ctrl-left click for multiple objects.Thus several gestures can be saved individually or as a session and uploaded in a similar fashion.
 
-*Debug* : Debug window has been implemented as an extension window which shows on when the debug button is pressed. The debug window comprises of four small windows which shows the IDs of the alive tangibles and cursors separately and also what values are send in a SET TUIO data.
+*Debug* : Debug window has been implemented as an external non-modal window which shows on when the debug is triggered from the file menu. The debug window comprises of four small views which shows the IDs of the alive tangibles and cursors separately and also what values are send in a SET TUIO data.
 
 *TUIO Transmission* : The TUIO dats is not started to transmit until this button is pressed. A default TUIO sender is connected to 127.0.0.1 at port number 3333. Extra TUIO senders can be set using *Configure Transmission* by specifying appropriate address and port number. Currently there is support only for UDP packets.
 
