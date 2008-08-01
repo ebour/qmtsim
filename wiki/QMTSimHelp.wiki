@@ -1,4 +1,5 @@
 #summary This page summarizes about the various functionalities in QMTSim
+#labels Featured
 
 = QMTSim Help  =
 
