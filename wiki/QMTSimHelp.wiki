@@ -43,6 +43,11 @@ The percentage of animation time is shown in the progress bar. You can *forward 
 
 *Opacity Control* :  A slider is provided to change the opacity of the QMTSim main window.This will help to keep the simulator just above the application, make QMTSim transpaernt , do a bit of resizing and then both the application and QMTSim will work in the same frame and give an impression that the application itself is loaded in the simulator. 
 
+http://mrashish.files.wordpress.com/2008/08/update10.jpg
+
+
+http://mrashish.files.wordpress.com/2008/08/update11.jpg
+
 Please report any bug or query or feature-request to *mr.ashish.rai@gmail.com*
 
 *HOPE YOU ENJOY USING QMTSim*
