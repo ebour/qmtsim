@@ -43,6 +43,10 @@ The percentage of animation time is shown in the progress bar. You can *forward 
 
 *Opacity Control* :  A slider is provided to change the opacity of the QMTSim main window.This will help to keep the simulator just above the application, make QMTSim transpaernt , do a bit of resizing and then both the application and QMTSim will work in the same frame and give an impression that the application itself is loaded in the simulator. 
 
+*Resize Table*: The table, represented by the rectanguluar region, can be resized dynamically from a dialog which pops up when Menu->Resize Table is triggered. The dialog contains two sliders which control the height and width of the table.
+
+When QMTSim is started, it starts with an opacity of 0.5 and buttons on the main window being hidden. The buttons can be viewed by Menu->View. They can again be hidden by Menu->View.
+
 http://mrashish.files.wordpress.com/2008/08/update10.jpg
 
 
